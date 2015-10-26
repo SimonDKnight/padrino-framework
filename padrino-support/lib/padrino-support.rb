@@ -13,6 +13,7 @@ require 'active_support/core_ext/string/output_safety'      # SafeBuffer and htm
 require 'padrino-support/core_ext/string/inflections'
 require 'padrino-support/core_ext/string/colorize'
 require 'padrino-support/core_ext/object_space'
+require 'padrino-support/ext/i18n'
 require 'padrino-support/file_set'
 
 
